@@ -1,0 +1,4 @@
+{
+  "name": "Sliding Puzzle Master",
+  "description": "A classic sliding tile puzzle game redesigned to fit entirely on screen without scrolling. Features a settings sidebar, light/dark mode, custom N x M grid sizes, and multiple numeral styles (Standard, Roman, Armenian)."
+}
